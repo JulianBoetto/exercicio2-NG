@@ -1,0 +1,15 @@
+span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 2px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border: none;
+}
